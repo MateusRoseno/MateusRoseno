@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Mateus 👋
 
-<!--
-**MateusRoseno/MateusRoseno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de TSI no IFPB  
+💻 Foco em desenvolvimento web  
+📚 Estudando JavaScript, SQL, HTML e CSS  
+🚀 Buscando evoluir e criar projetos reais  
 
-Here are some ideas to get you started:
+## Tecnologias
+- JavaScript
+- HTML
+- CSS
+- PostgreSQL
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+- Sistema de cadastro
+- Projetos acadêmicos
+- Estudos práticos
+
+## Contato
+- LinkedIn: [seu link]
